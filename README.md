@@ -7,3 +7,9 @@ Steps to exporting from Spriter to Game
 1B. Export each of these animations to it's own folder in the MyPacker/Input Folder
 2. Setup the correct paths to assets folder in MyPacker and run it
 2b. Copy files in output folder to the android assets folder
+
+
+Steps for exporting Skin to game, 
+1. Open scmp file in Skin Composer folder
+2. Export from skin composer to android assets folder
+3. I believe we are using aris_uiskin file
