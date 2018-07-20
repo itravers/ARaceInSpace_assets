@@ -1,0 +1,3059 @@
+
+HeroAnimations.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 2, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 0
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 2, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 1
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 229, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 2
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 2, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 3
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 229, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 4
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 456, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 5
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 6
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 229, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 7
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 456, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 8
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 683, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 9
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 229, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 10
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 456, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 11
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 683, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 12
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 456, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 13
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 683, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 14
+FlyingLeftNoThrust/FlyingLeftNoThrus
+  rotate: false
+  xy: 683, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 15
+
+HeroAnimations2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+JumpForward/JumpForward
+  rotate: false
+  xy: 2, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 0
+JumpForward/JumpForward
+  rotate: false
+  xy: 2, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 1
+JumpForward/JumpForward
+  rotate: false
+  xy: 193, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 2
+JumpForward/JumpForward
+  rotate: false
+  xy: 2, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 3
+JumpForward/JumpForward
+  rotate: false
+  xy: 193, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 4
+JumpForward/JumpForward
+  rotate: false
+  xy: 384, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 5
+JumpForward/JumpForward
+  rotate: false
+  xy: 2, 193
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 6
+JumpForward/JumpForward
+  rotate: false
+  xy: 193, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 7
+JumpForward/JumpForward
+  rotate: false
+  xy: 384, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 8
+JumpForward/JumpForward
+  rotate: false
+  xy: 575, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 9
+JumpForward/JumpForward
+  rotate: false
+  xy: 2, 2
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 10
+JumpForward/JumpForward
+  rotate: false
+  xy: 193, 193
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 11
+JumpForward/JumpForward
+  rotate: false
+  xy: 384, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 12
+JumpForward/JumpForward
+  rotate: false
+  xy: 575, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 13
+JumpForward/JumpForward
+  rotate: false
+  xy: 766, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 14
+JumpForward/JumpForward
+  rotate: false
+  xy: 193, 2
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 15
+
+HeroAnimations3.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FlyingRightBack/FlyingRightBac
+  rotate: false
+  xy: 2, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 0
+FlyingRightBack/FlyingRightBac
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 1
+FlyingRightBack/FlyingRightBac
+  rotate: false
+  xy: 229, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 2
+FlyingRightBack/FlyingRightBac
+  rotate: false
+  xy: 229, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 3
+FlyingRightBack/FlyingRightBac
+  rotate: false
+  xy: 456, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 4
+FlyingRightBack/FlyingRightBac
+  rotate: false
+  xy: 456, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 5
+FlyingRightBack/FlyingRightBac
+  rotate: false
+  xy: 683, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 6
+FlyingRightBack/FlyingRightBac
+  rotate: false
+  xy: 683, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 7
+
+HeroAnimations4.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FlyingLeftBack/FlyingLeftBac
+  rotate: false
+  xy: 2, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 0
+FlyingLeftBack/FlyingLeftBac
+  rotate: false
+  xy: 2, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 6
+FlyingLeftBack/FlyingLeftBac
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 1
+FlyingLeftBack/FlyingLeftBac
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 5
+FlyingLeftBack/FlyingLeftBac
+  rotate: false
+  xy: 229, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 2
+FlyingLeftBack/FlyingLeftBac
+  rotate: false
+  xy: 229, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 3
+FlyingLeftBack/FlyingLeftBac
+  rotate: false
+  xy: 456, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 4
+FlyingLeftBack/FlyingLeftBac
+  rotate: false
+  xy: 456, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 7
+
+HeroAnimations5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 2, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 0
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 2, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 1
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 229, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 2
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 2, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 3
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 229, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 4
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 456, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 5
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 6
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 229, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 7
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 456, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 8
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 683, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 9
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 229, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 10
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 456, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 11
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 683, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 12
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 456, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 13
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 683, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 14
+FlyingNoThrust/FlyingNoThrust
+  rotate: false
+  xy: 683, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 15
+
+HeroAnimations6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 2, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 0
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 2, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 1
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 193, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 2
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 2, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 3
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 193, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 4
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 384, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 5
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 2, 193
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 6
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 193, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 7
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 384, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 8
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 575, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 9
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 2, 2
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 10
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 193, 193
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 11
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 384, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 12
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 575, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 13
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 766, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 14
+StandingStillSideways/StandingStillSideways
+  rotate: false
+  xy: 193, 2
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 15
+
+HeroAnimations7.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 2, 774
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 0
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 2, 581
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 1
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 195, 774
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 2
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 2, 388
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 3
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 195, 581
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 4
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 388, 774
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 5
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 2, 195
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 6
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 195, 388
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 7
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 388, 581
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 8
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 581, 774
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 9
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 2, 2
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 10
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 195, 195
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 11
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 388, 388
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 12
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 581, 581
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 13
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 774, 774
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 14
+WalkingSlow/WalkSlow
+  rotate: false
+  xy: 195, 2
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 15
+
+HeroAnimations8.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Flying/Flying
+  rotate: false
+  xy: 2, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 0
+Flying/Flying
+  rotate: false
+  xy: 2, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 1
+Flying/Flying
+  rotate: false
+  xy: 229, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 2
+Flying/Flying
+  rotate: false
+  xy: 2, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 3
+Flying/Flying
+  rotate: false
+  xy: 229, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 4
+Flying/Flying
+  rotate: false
+  xy: 456, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 5
+Flying/Flying
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 6
+Flying/Flying
+  rotate: false
+  xy: 229, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 7
+Flying/Flying
+  rotate: false
+  xy: 456, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 8
+Flying/Flying
+  rotate: false
+  xy: 683, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 9
+Flying/Flying
+  rotate: false
+  xy: 229, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 10
+Flying/Flying
+  rotate: false
+  xy: 456, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 11
+Flying/Flying
+  rotate: false
+  xy: 683, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 12
+Flying/Flying
+  rotate: false
+  xy: 456, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 13
+Flying/Flying
+  rotate: false
+  xy: 683, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 14
+Flying/Flying
+  rotate: false
+  xy: 683, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 15
+
+HeroAnimations9.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+LandingForward/LandingForward
+  rotate: false
+  xy: 2, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 0
+LandingForward/LandingForward
+  rotate: false
+  xy: 2, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 1
+LandingForward/LandingForward
+  rotate: false
+  xy: 193, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 2
+LandingForward/LandingForward
+  rotate: false
+  xy: 2, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 3
+LandingForward/LandingForward
+  rotate: false
+  xy: 193, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 4
+LandingForward/LandingForward
+  rotate: false
+  xy: 384, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 5
+LandingForward/LandingForward
+  rotate: false
+  xy: 2, 193
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 6
+LandingForward/LandingForward
+  rotate: false
+  xy: 193, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 7
+LandingForward/LandingForward
+  rotate: false
+  xy: 384, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 8
+LandingForward/LandingForward
+  rotate: false
+  xy: 575, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 9
+LandingForward/LandingForward
+  rotate: false
+  xy: 2, 2
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 10
+LandingForward/LandingForward
+  rotate: false
+  xy: 193, 193
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 11
+LandingForward/LandingForward
+  rotate: false
+  xy: 384, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 12
+LandingForward/LandingForward
+  rotate: false
+  xy: 575, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 13
+LandingForward/LandingForward
+  rotate: false
+  xy: 766, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 14
+LandingForward/LandingForward
+  rotate: false
+  xy: 193, 2
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 15
+
+HeroAnimations10.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 2, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 0
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 2, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 1
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 229, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 2
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 2, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 3
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 229, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 4
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 456, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 5
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 6
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 229, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 7
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 456, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 8
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 683, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 9
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 229, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 10
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 456, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 11
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 683, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 12
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 456, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 13
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 683, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 14
+FlyingBackward/FlyingBackwar
+  rotate: false
+  xy: 683, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 15
+
+HeroAnimations11.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 2, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 0
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 2, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 1
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 229, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 2
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 2, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 3
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 229, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 4
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 456, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 5
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 6
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 229, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 7
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 456, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 8
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 683, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 9
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 229, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 10
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 456, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 11
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 683, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 12
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 456, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 13
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 683, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 14
+FlyingRightNoThrust/FlyingRightNoThrus
+  rotate: false
+  xy: 683, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 15
+
+HeroAnimations12.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Wave/Wave
+  rotate: false
+  xy: 2, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 0
+Wave/Wave
+  rotate: false
+  xy: 2, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 1
+Wave/Wave
+  rotate: false
+  xy: 229, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 2
+Wave/Wave
+  rotate: false
+  xy: 2, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 3
+Wave/Wave
+  rotate: false
+  xy: 229, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 4
+Wave/Wave
+  rotate: false
+  xy: 456, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 5
+Wave/Wave
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 6
+Wave/Wave
+  rotate: false
+  xy: 229, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 7
+Wave/Wave
+  rotate: false
+  xy: 456, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 8
+Wave/Wave
+  rotate: false
+  xy: 683, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 9
+Wave/Wave
+  rotate: false
+  xy: 229, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 10
+Wave/Wave
+  rotate: false
+  xy: 456, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 11
+Wave/Wave
+  rotate: false
+  xy: 683, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 12
+Wave/Wave
+  rotate: false
+  xy: 456, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 13
+Wave/Wave
+  rotate: false
+  xy: 683, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 14
+Wave/Wave
+  rotate: false
+  xy: 683, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 15
+
+HeroAnimations13.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FlyingToFlyLeftTransition/FlyingToLeftTransition
+  rotate: false
+  xy: 2, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 0
+FlyingToFlyLeftTransition/FlyingToLeftTransition
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 1
+FlyingToFlyLeftTransition/FlyingToLeftTransition
+  rotate: false
+  xy: 229, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 2
+FlyingToFlyLeftTransition/FlyingToLeftTransition
+  rotate: false
+  xy: 229, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 3
+FlyingToFlyLeftTransition/FlyingToLeftTransition
+  rotate: false
+  xy: 456, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 4
+FlyingToFlyLeftTransition/FlyingToLeftTransition
+  rotate: false
+  xy: 456, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 5
+FlyingToFlyLeftTransition/FlyingToLeftTransition
+  rotate: false
+  xy: 683, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 6
+FlyingToFlyLeftTransition/FlyingToLeftTransition
+  rotate: false
+  xy: 683, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 7
+
+HeroAnimations14.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RunSlow/RunSlow
+  rotate: false
+  xy: 2, 774
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 0
+RunSlow/RunSlow
+  rotate: false
+  xy: 2, 581
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 1
+RunSlow/RunSlow
+  rotate: false
+  xy: 195, 774
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 2
+RunSlow/RunSlow
+  rotate: false
+  xy: 2, 388
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 3
+RunSlow/RunSlow
+  rotate: false
+  xy: 195, 581
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 4
+RunSlow/RunSlow
+  rotate: false
+  xy: 388, 774
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 5
+RunSlow/RunSlow
+  rotate: false
+  xy: 2, 195
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 6
+RunSlow/RunSlow
+  rotate: false
+  xy: 195, 388
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 7
+RunSlow/RunSlow
+  rotate: false
+  xy: 388, 581
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 8
+RunSlow/RunSlow
+  rotate: false
+  xy: 581, 774
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 9
+RunSlow/RunSlow
+  rotate: false
+  xy: 2, 2
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 10
+RunSlow/RunSlow
+  rotate: false
+  xy: 195, 195
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: 11
+
+HeroAnimations15.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 2, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 0
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 2, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 1
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 193, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 2
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 2, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 3
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 193, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 4
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 384, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 5
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 2, 193
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 6
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 193, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 7
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 384, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 8
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 575, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 9
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 2, 2
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 10
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 193, 193
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 11
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 384, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 12
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 575, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 13
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 766, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 14
+StandingStillForward/StandingStillForwar
+  rotate: false
+  xy: 193, 2
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 15
+
+HeroAnimations16.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosion/explosion
+  rotate: false
+  xy: 2, 891
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 0
+explosion/explosion
+  rotate: false
+  xy: 2, 764
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 1
+explosion/explosion
+  rotate: false
+  xy: 129, 891
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 2
+explosion/explosion
+  rotate: false
+  xy: 2, 637
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 3
+explosion/explosion
+  rotate: false
+  xy: 129, 764
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 4
+explosion/explosion
+  rotate: false
+  xy: 256, 891
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 5
+explosion/explosion
+  rotate: false
+  xy: 2, 510
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 6
+explosion/explosion
+  rotate: false
+  xy: 129, 637
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 7
+explosion/explosion
+  rotate: false
+  xy: 256, 764
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 8
+explosion/explosion
+  rotate: false
+  xy: 383, 891
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 9
+explosion/explosion
+  rotate: false
+  xy: 2, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 10
+explosion/explosion
+  rotate: false
+  xy: 129, 510
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 11
+explosion/explosion
+  rotate: false
+  xy: 256, 637
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 12
+explosion/explosion
+  rotate: false
+  xy: 383, 764
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 13
+explosion/explosion
+  rotate: false
+  xy: 510, 891
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 14
+explosion/explosion
+  rotate: false
+  xy: 2, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 15
+explosion/explosion
+  rotate: false
+  xy: 129, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 16
+explosion/explosion
+  rotate: false
+  xy: 256, 510
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 17
+explosion/explosion
+  rotate: false
+  xy: 383, 637
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 18
+explosion/explosion
+  rotate: false
+  xy: 510, 764
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 19
+explosion/explosion
+  rotate: false
+  xy: 637, 891
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 20
+explosion/explosion
+  rotate: false
+  xy: 2, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 21
+explosion/explosion
+  rotate: false
+  xy: 129, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 22
+explosion/explosion
+  rotate: false
+  xy: 256, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 23
+explosion/explosion
+  rotate: false
+  xy: 383, 510
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 24
+explosion/explosion
+  rotate: false
+  xy: 510, 637
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 25
+explosion/explosion
+  rotate: false
+  xy: 637, 764
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 26
+explosion/explosion
+  rotate: false
+  xy: 764, 891
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 27
+explosion/explosion
+  rotate: false
+  xy: 2, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 28
+explosion/explosion
+  rotate: false
+  xy: 129, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 29
+explosion/explosion
+  rotate: false
+  xy: 256, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 30
+explosion/explosion
+  rotate: false
+  xy: 383, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 31
+explosion/explosion
+  rotate: false
+  xy: 510, 510
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 32
+explosion/explosion
+  rotate: false
+  xy: 637, 637
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 33
+explosion/explosion
+  rotate: false
+  xy: 764, 764
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 34
+explosion/explosion
+  rotate: false
+  xy: 891, 891
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 35
+explosion/explosion
+  rotate: false
+  xy: 129, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 36
+explosion/explosion
+  rotate: false
+  xy: 256, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 37
+explosion/explosion
+  rotate: false
+  xy: 383, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 38
+explosion/explosion
+  rotate: false
+  xy: 510, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 39
+explosion/explosion
+  rotate: false
+  xy: 637, 510
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 40
+explosion/explosion
+  rotate: false
+  xy: 764, 637
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 41
+explosion/explosion
+  rotate: false
+  xy: 891, 764
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 42
+explosion/explosion
+  rotate: false
+  xy: 256, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 43
+explosion/explosion
+  rotate: false
+  xy: 383, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 44
+explosion/explosion
+  rotate: false
+  xy: 510, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 45
+explosion/explosion
+  rotate: false
+  xy: 637, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 46
+explosion/explosion
+  rotate: false
+  xy: 764, 510
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 47
+explosion/explosion
+  rotate: false
+  xy: 891, 637
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 48
+explosion/explosion
+  rotate: false
+  xy: 383, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 49
+explosion/explosion
+  rotate: false
+  xy: 510, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 50
+explosion/explosion
+  rotate: false
+  xy: 637, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 51
+explosion/explosion
+  rotate: false
+  xy: 764, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 52
+explosion/explosion
+  rotate: false
+  xy: 891, 510
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 53
+explosion/explosion
+  rotate: false
+  xy: 510, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 54
+explosion/explosion
+  rotate: false
+  xy: 637, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 55
+explosion/explosion
+  rotate: false
+  xy: 764, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 56
+explosion/explosion
+  rotate: false
+  xy: 891, 383
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 57
+explosion/explosion
+  rotate: false
+  xy: 637, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 58
+explosion/explosion
+  rotate: false
+  xy: 764, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 59
+explosion/explosion
+  rotate: false
+  xy: 891, 256
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 60
+explosion/explosion
+  rotate: false
+  xy: 764, 2
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 61
+explosion/explosion
+  rotate: false
+  xy: 891, 129
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: 62
+
+HeroAnimations17.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 2, 638
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 0
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 2, 426
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 1
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 214, 638
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 2
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 2, 214
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 3
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 214, 426
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 4
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 426, 638
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 5
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 2, 2
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 6
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 214, 214
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 7
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 426, 426
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 8
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 638, 638
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 9
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 214, 2
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 10
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 426, 214
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 11
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 638, 426
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 12
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 426, 2
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 13
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 638, 214
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 14
+WalkingFast/WalkingFast
+  rotate: false
+  xy: 638, 2
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 15
+
+HeroAnimations18.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+GhostIndicator/boostMeter_blue_text
+  rotate: false
+  xy: 2, 410
+  size: 405, 60
+  orig: 405, 60
+  offset: 0, 0
+  index: -1
+GhostIndicator/boostMeter_red_text
+  rotate: false
+  xy: 2, 348
+  size: 405, 60
+  orig: 405, 60
+  offset: 0, 0
+  index: -1
+GhostIndicator/ghostIndicator_empty
+  rotate: false
+  xy: 816, 361
+  size: 200, 109
+  orig: 200, 109
+  offset: 0, 0
+  index: -1
+GhostIndicator/ghostIndicator_empty_text
+  rotate: false
+  xy: 2, 113
+  size: 200, 109
+  orig: 200, 109
+  offset: 0, 0
+  index: -1
+GhostIndicator/ghostIndicator_fill
+  rotate: false
+  xy: 2, 2
+  size: 200, 109
+  orig: 200, 109
+  offset: 0, 0
+  index: -1
+GhostIndicator/ghostIndicator_fill_green
+  rotate: false
+  xy: 204, 113
+  size: 200, 109
+  orig: 200, 109
+  offset: 0, 0
+  index: -1
+GhostIndicator/ghostIndicator_fill_green_text
+  rotate: false
+  xy: 204, 2
+  size: 200, 109
+  orig: 200, 109
+  offset: 0, 0
+  index: -1
+GhostIndicator/ghostIndicator_fill_text
+  rotate: false
+  xy: 816, 250
+  size: 200, 109
+  orig: 200, 109
+  offset: 0, 0
+  index: -1
+GhostIndicator/ghostIndicator_red
+  rotate: false
+  xy: 409, 175
+  size: 200, 109
+  orig: 200, 109
+  offset: 0, 0
+  index: -1
+GhostIndicator/ghostIndicator_red_text
+  rotate: false
+  xy: 611, 175
+  size: 200, 109
+  orig: 200, 109
+  offset: 0, 0
+  index: -1
+GhostIndicator/healthMeter_blue
+  rotate: false
+  xy: 409, 410
+  size: 405, 60
+  orig: 405, 60
+  offset: 0, 0
+  index: -1
+GhostIndicator/healthMeter_blue_text
+  rotate: false
+  xy: 2, 286
+  size: 405, 60
+  orig: 405, 60
+  offset: 0, 0
+  index: -1
+GhostIndicator/healthMeter_empty
+  rotate: false
+  xy: 409, 348
+  size: 405, 60
+  orig: 405, 60
+  offset: 0, 0
+  index: -1
+GhostIndicator/healthMeter_red
+  rotate: false
+  xy: 2, 224
+  size: 405, 60
+  orig: 405, 60
+  offset: 0, 0
+  index: -1
+GhostIndicator/healthMeter_red_text
+  rotate: false
+  xy: 409, 286
+  size: 405, 60
+  orig: 405, 60
+  offset: 0, 0
+  index: -1
+GhostIndicator/indicator-green
+  rotate: false
+  xy: 576, 89
+  size: 168, 84
+  orig: 168, 84
+  offset: 0, 0
+  index: -1
+GhostIndicator/indicator-red
+  rotate: false
+  xy: 406, 78
+  size: 168, 95
+  orig: 168, 95
+  offset: 0, 0
+  index: -1
+GhostIndicator/indicator-white
+  rotate: false
+  xy: 406, 2
+  size: 168, 74
+  orig: 168, 74
+  offset: 0, 0
+  index: -1
+GhostIndicator/indicator-yellow
+  rotate: false
+  xy: 576, 24
+  size: 168, 63
+  orig: 168, 63
+  offset: 0, 0
+  index: -1
+
+HeroAnimations19.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RunFast/RunFast
+  rotate: false
+  xy: 2, 638
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 0
+RunFast/RunFast
+  rotate: false
+  xy: 2, 426
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 1
+RunFast/RunFast
+  rotate: false
+  xy: 214, 638
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 2
+RunFast/RunFast
+  rotate: false
+  xy: 2, 214
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 3
+RunFast/RunFast
+  rotate: false
+  xy: 214, 426
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 4
+RunFast/RunFast
+  rotate: false
+  xy: 426, 638
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 5
+RunFast/RunFast
+  rotate: false
+  xy: 2, 2
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 6
+RunFast/RunFast
+  rotate: false
+  xy: 214, 214
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 7
+RunFast/RunFast
+  rotate: false
+  xy: 426, 426
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 8
+RunFast/RunFast
+  rotate: false
+  xy: 638, 638
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 9
+RunFast/RunFast
+  rotate: false
+  xy: 214, 2
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 10
+RunFast/RunFast
+  rotate: false
+  xy: 426, 214
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 11
+
+HeroAnimations20.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 2, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 0
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 2, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 1
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 193, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 2
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 2, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 3
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 193, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 4
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 384, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 5
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 2, 193
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 6
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 193, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 7
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 384, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 8
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 575, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 9
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 2, 2
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 10
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 193, 193
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 11
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 384, 384
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 12
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 575, 575
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 13
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 766, 766
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 14
+FloatingSideways/FloatingSideways
+  rotate: false
+  xy: 193, 2
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: 15
+
+HeroAnimations21.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 2, 659
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 0
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 2, 440
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 1
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 221, 659
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 2
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 2, 221
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 3
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 221, 440
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 4
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 440, 659
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 5
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 2, 2
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 6
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 221, 221
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 7
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 440, 440
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 8
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 659, 659
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 9
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 221, 2
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 10
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 440, 221
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 11
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 659, 440
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 12
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 440, 2
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 13
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 659, 221
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 14
+JumpSideways/JumpSideways
+  rotate: false
+  xy: 659, 2
+  size: 217, 217
+  orig: 217, 217
+  offset: 0, 0
+  index: 15
+
+HeroAnimations22.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 2, 638
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 0
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 2, 426
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 1
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 214, 638
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 2
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 2, 214
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 3
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 214, 426
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 4
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 426, 638
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 5
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 2, 2
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 6
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 214, 214
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 7
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 426, 426
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 8
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 638, 638
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 9
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 214, 2
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 10
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 426, 214
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 11
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 638, 426
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 12
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 426, 2
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 13
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 638, 214
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 14
+LandingSideways/LandingSideways
+  rotate: false
+  xy: 638, 2
+  size: 210, 210
+  orig: 210, 210
+  offset: 0, 0
+  index: 15
+
+HeroAnimations23.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 2, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 0
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 2, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 1
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 229, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 2
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 2, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 3
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 229, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 4
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 456, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 5
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 6
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 229, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 7
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 456, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 8
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 683, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 9
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 229, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 10
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 456, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 11
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 683, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 12
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 456, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 13
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 683, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 14
+FlyingRight/FlyingRight
+  rotate: false
+  xy: 683, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 15
+
+HeroAnimations24.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FlyingToFlyRightTransition/FlyingToRightTransition
+  rotate: false
+  xy: 2, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 0
+FlyingToFlyRightTransition/FlyingToRightTransition
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 1
+FlyingToFlyRightTransition/FlyingToRightTransition
+  rotate: false
+  xy: 229, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 2
+FlyingToFlyRightTransition/FlyingToRightTransition
+  rotate: false
+  xy: 229, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 3
+FlyingToFlyRightTransition/FlyingToRightTransition
+  rotate: false
+  xy: 456, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 4
+FlyingToFlyRightTransition/FlyingToRightTransition
+  rotate: false
+  xy: 456, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 5
+FlyingToFlyRightTransition/FlyingToRightTransition
+  rotate: false
+  xy: 683, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 6
+FlyingToFlyRightTransition/FlyingToRightTransition
+  rotate: false
+  xy: 683, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 7
+
+HeroAnimations25.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Planets/Moon
+  rotate: false
+  xy: 2, 2
+  size: 1020, 1020
+  orig: 1020, 1020
+  offset: 0, 0
+  index: -1
+
+HeroAnimations26.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Planets/Planet 02
+  rotate: false
+  xy: 2, 2
+  size: 1020, 1019
+  orig: 1020, 1019
+  offset: 0, 0
+  index: -1
+
+HeroAnimations27.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Planets/Planet 01
+  rotate: false
+  xy: 2, 2
+  size: 1016, 1020
+  orig: 1016, 1020
+  offset: 0, 0
+  index: -1
+
+HeroAnimations28.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 2, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 0
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 2, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 1
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 229, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 2
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 2, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 3
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 229, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 4
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 456, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 5
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 6
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 229, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 7
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 456, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 8
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 683, 683
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 9
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 229, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 10
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 456, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 11
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 683, 456
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 12
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 456, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 13
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 683, 229
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 14
+FlyingLeft/FlyingLeft
+  rotate: false
+  xy: 683, 2
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: 15
