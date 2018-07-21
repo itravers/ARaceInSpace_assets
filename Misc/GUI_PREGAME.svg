@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="56.233994mm"
-   height="53.501286mm"
-   viewBox="0 0 199.25431 189.57148"
+   width="59.842545mm"
+   height="56.167393mm"
+   viewBox="0 0 212.0405 199.01831"
    id="svg8607"
    version="1.1"
    inkscape:version="0.91 r"
@@ -4717,6 +4717,45 @@
        y1="638.60736"
        x2="-875.40308"
        y2="955.79523" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter12766-2-2-3"
+       x="-0.041770987"
+       width="1.083542"
+       y="-0.035532471"
+       height="1.0710649">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.6534843"
+         id="feGaussianBlur12768-6-2-6" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter12766-0-3-5"
+       x="-0.041770987"
+       width="1.083542"
+       y="-0.035532471"
+       height="1.0710649">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.6534843"
+         id="feGaussianBlur12768-7-3-3" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter12766-7-6-6"
+       x="-0.041770987"
+       width="1.083542"
+       y="-0.035532471"
+       height="1.0710649">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="2.6534843"
+         id="feGaussianBlur12768-8-1-2" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -4725,16 +4764,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="385.79377"
-     inkscape:cy="-203.49971"
+     inkscape:zoom="1.4"
+     inkscape:cx="324.26671"
+     inkscape:cy="217.84165"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1440"
-     inkscape:window-height="876"
-     inkscape:window-x="2880"
-     inkscape:window-y="148"
+     inkscape:window-width="1221"
+     inkscape:window-height="1000"
+     inkscape:window-x="59"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      fit-margin-top="0.2"
      fit-margin-left="0.2"
@@ -4756,7 +4795,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1756.7375,808.76594)">
+     transform="translate(-1534.9963,377.31101)">
     <g
        id="g17661">
       <path
@@ -8902,7 +8941,7 @@
     <g
        transform="translate(2191.734,-1016.7925)"
        id="g13119-6-4"
-       inkscape:export-filename="/home/slack/Documents/Game Design/Sprite Work/star1_up.png"
+       inkscape:export-filename="/home/slack/workspace/ARaceInSpace_assets/Skin Composer/assets/star1_up.png"
        inkscape:export-xdpi="46.060001"
        inkscape:export-ydpi="46.060001">
       <g
@@ -8958,7 +8997,7 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="-580.48291"
          y="769.77051"
          id="text12723-2-5"
@@ -8967,7 +9006,7 @@
            id="tspan12725-3-9"
            x="-580.48291"
            y="769.77051"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:Destroy;-inkscape-font-specification:Destroy">1</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:Destroy;-inkscape-font-specification:Destroy;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1">1</tspan></text>
     </g>
     <g
        transform="matrix(1.312298,0,0,1.312298,1899.6596,221.37771)"
@@ -9039,44 +9078,10 @@
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;font-family:Destroy;-inkscape-font-specification:Destroy;fill:url(#linearGradient5584);fill-opacity:1;stroke:#000000;stroke-opacity:0.54000005">15</tspan></text>
       </g>
     </g>
-    <path
-       sodipodi:type="star"
-       style="opacity:1;fill:url(#linearGradient9927);fill-opacity:1;stroke:#000000;stroke-width:3.39188194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31125829"
-       id="path12733-4-7-8"
-       sodipodi:sides="5"
-       sodipodi:cx="1858.5428"
-       sodipodi:cy="-272.34299"
-       sodipodi:r1="99.073463"
-       sodipodi:r2="41.016418"
-       sodipodi:arg1="-1.5707963"
-       sodipodi:arg2="-0.9424778"
-       inkscape:flatsided="false"
-       inkscape:rounded="-3.46945e-18"
-       inkscape:randomized="0"
-       d="m 1858.5428,-371.41645 24.1089,65.89048 70.1156,2.5676 -55.2155,43.29015 19.225,67.47735 -58.234,-39.1357 -58.2339,39.1357 19.225,-67.47735 -55.2155,-43.29015 70.1156,-2.5676 z"
-       inkscape:transform-center-y="-9.4606739"
-       inkscape:export-filename="/home/slack/Documents/Game Design/Sprite Work/star1_down.png"
-       inkscape:export-xdpi="46.060001"
-       inkscape:export-ydpi="46.060001" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text12723-2-5-6"
-       y="-246.7717"
-       x="1835.1705"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       inkscape:export-filename="/home/slack/Documents/Game Design/Sprite Work/star1_down.png"
-       inkscape:export-xdpi="46.060001"
-       inkscape:export-ydpi="46.060001"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:Destroy;-inkscape-font-specification:Destroy"
-         y="-246.7717"
-         x="1835.1705"
-         id="tspan12725-3-9-4"
-         sodipodi:role="line">1</tspan></text>
     <g
        transform="translate(2187.0821,-1227.9708)"
        id="g13131-1-7"
-       inkscape:export-filename="/home/slack/Documents/Game Design/Sprite Work/star2_up.png"
+       inkscape:export-filename="/home/slack/workspace/ARaceInSpace_assets/Skin Composer/assets/star2_up.png"
        inkscape:export-xdpi="46.060001"
        inkscape:export-ydpi="46.060001">
       <g
@@ -9135,151 +9140,217 @@
          id="text13149-1-5"
          y="769.77051"
          x="-586.1972"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:Destroy;-inkscape-font-specification:Destroy"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:Destroy;-inkscape-font-specification:Destroy;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
            y="769.77051"
            x="-586.1972"
            id="tspan13151-8-4"
            sodipodi:role="line">2</tspan></text>
     </g>
-    <path
-       sodipodi:type="star"
-       style="opacity:1;fill:url(#linearGradient9927-0);fill-opacity:1;stroke:#000000;stroke-width:3.39188194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31125829"
-       id="path12733-4-7-8-4"
-       sodipodi:sides="5"
-       sodipodi:cx="1863.5074"
-       sodipodi:cy="-489.04822"
-       sodipodi:r1="99.073463"
-       sodipodi:r2="41.016418"
-       sodipodi:arg1="-1.5707963"
-       sodipodi:arg2="-0.9424778"
-       inkscape:flatsided="false"
-       inkscape:rounded="-3.46945e-18"
-       inkscape:randomized="0"
-       d="m 1863.5074,-588.12168 24.1089,65.89048 70.1156,2.5676 -55.2155,43.29015 19.225,67.47735 -58.234,-39.1357 -58.2339,39.1357 19.225,-67.47735 -55.2155,-43.29015 70.1156,-2.5676 z"
-       inkscape:transform-center-y="-9.4606739"
-       inkscape:export-filename="/home/slack/Documents/Game Design/Sprite Work/star2_down.png"
-       inkscape:export-xdpi="46.060001"
-       inkscape:export-ydpi="46.060001" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text13149-1-5-6"
-       y="-466.52878"
-       x="1833.2246"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       inkscape:export-filename="/home/slack/Documents/Game Design/Sprite Work/star2_down.png"
-       inkscape:export-xdpi="46.060001"
-       inkscape:export-ydpi="46.060001"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:Destroy;-inkscape-font-specification:Destroy"
-         y="-466.52878"
-         x="1833.2246"
-         id="tspan13151-8-4-9"
-         sodipodi:role="line">2</tspan></text>
     <g
-       transform="translate(2184.9008,-1456.1175)"
-       id="g13155-0-3"
-       inkscape:export-filename="/home/slack/Documents/Game Design/Sprite Work/star3_up.png"
+       id="g5707"
+       inkscape:export-filename="/home/slack/workspace/ARaceInSpace_assets/Skin Composer/assets/star3_up.png"
        inkscape:export-xdpi="46.060001"
        inkscape:export-ydpi="46.060001">
+      <path
+         id="path13159-5-8"
+         d="m 1638.9019,-803.9213 -5.2734,14.41016 16.25,44.41015 10.6894,0.39063 -21.666,-59.21094 z m 73.0606,67.6836 -47.1836,36.99414 18.6074,65.30664 13.75,9.24218 -19.2246,-67.47851 55.2148,-43.28906 -21.164,-0.77539 z m -86.1934,65.33593 -39.5,26.54493 -5.6016,19.6621 56.9278,-38.25976 -11.8262,-7.94727 z"
+         style="opacity:1;fill:#000000;fill-opacity:0.39072846;stroke:none;stroke-width:3.39188194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31125829;filter:url(#filter12766-2-2)"
+         inkscape:connector-curvature="0" />
       <g
-         transform="translate(61.213203,0)"
-         id="g13157-4-6">
+         transform="translate(2246.114,-1456.1175)"
+         id="g13161-6-0">
         <path
+           inkscape:transform-center-y="-9.4606739"
+           d="m -618.32379,645.12576 24.10884,65.89048 70.11562,2.5676 -55.21553,43.29015 19.22499,67.47735 -58.23392,-39.1357 -58.23392,39.13569 19.22499,-67.47734 -55.21553,-43.29016 70.11561,-2.56759 z"
+           inkscape:randomized="0"
+           inkscape:rounded="-3.46945e-18"
+           inkscape:flatsided="false"
+           sodipodi:arg2="-0.9424778"
+           sodipodi:arg1="-1.5707963"
+           sodipodi:r2="41.016418"
+           sodipodi:r1="99.073463"
+           sodipodi:cy="744.19922"
+           sodipodi:cx="-618.32379"
+           sodipodi:sides="5"
+           id="path13163-5-2"
+           style="opacity:1;fill:url(#linearGradient10167);fill-opacity:1;stroke:#000000;stroke-width:3.39188194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31125829"
+           sodipodi:type="star" />
+        <path
+           style="fill:#ffffff;fill-opacity:0.39072846;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter12808-0-7)"
+           d="m -673.27577,819.86742 18.18275,-64.14469 1.76776,1.51523 -18.18274,60.10408 z"
+           id="path13165-2-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#ffffff;fill-opacity:0.72847685;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter12838-55-4)"
+           d="m -707.93469,715.15743 1.96428,1.07143 65.44643,-2.23215 -0.89285,-1.60714 z"
+           id="path13167-3-0"
            inkscape:connector-curvature="0"
-           style="opacity:1;fill:#000000;fill-opacity:0.39072846;stroke:none;stroke-width:3.39188194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31125829;filter:url(#filter12766-2-2)"
-           d="m -607.2121,652.1962 -5.27344,14.41016 16.25,44.41015 10.68946,0.39063 -21.66602,-59.21094 z m 73.06055,67.6836 -47.1836,36.99414 18.60742,65.30664 13.75,9.24218 -19.2246,-67.47851 55.21484,-43.28906 -21.16406,-0.77539 z m -86.19336,65.33593 -39.5,26.54493 -5.60156,19.6621 56.92773,-38.25976 -11.82617,-7.94727 z"
-           id="path13159-5-8" />
-        <g
-           id="g13161-6-0">
-          <path
-             sodipodi:type="star"
-             style="opacity:1;fill:url(#linearGradient10167);fill-opacity:1;stroke:#000000;stroke-width:3.39188194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31125829"
-             id="path13163-5-2"
-             sodipodi:sides="5"
-             sodipodi:cx="-618.32379"
-             sodipodi:cy="744.19922"
-             sodipodi:r1="99.073463"
-             sodipodi:r2="41.016418"
-             sodipodi:arg1="-1.5707963"
-             sodipodi:arg2="-0.9424778"
-             inkscape:flatsided="false"
-             inkscape:rounded="-3.46945e-18"
-             inkscape:randomized="0"
-             d="m -618.32379,645.12576 24.10884,65.89048 70.11562,2.5676 -55.21553,43.29015 19.22499,67.47735 -58.23392,-39.1357 -58.23392,39.13569 19.22499,-67.47734 -55.21553,-43.29016 70.11561,-2.56759 z"
-             inkscape:transform-center-y="-9.4606739" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path13165-2-1"
-             d="m -673.27577,819.86742 18.18275,-64.14469 1.76776,1.51523 -18.18274,60.10408 z"
-             style="fill:#ffffff;fill-opacity:0.39072846;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter12808-0-7)" />
-          <path
-             sodipodi:nodetypes="ccccc"
-             inkscape:connector-curvature="0"
-             id="path13167-3-0"
-             d="m -707.93469,715.15743 1.96428,1.07143 65.44643,-2.23215 -0.89285,-1.60714 z"
-             style="fill:#ffffff;fill-opacity:0.72847685;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter12838-55-4)" />
-          <path
-             sodipodi:nodetypes="ccccc"
-             inkscape:connector-curvature="0"
-             id="path13169-3-5"
-             d="m -641.20342,712.41244 22.72843,-62.12438 0.88389,1.89404 -22.60217,61.87184 z"
-             style="fill:#ffffff;fill-opacity:0.72847685;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter12848-3-1)" />
-          <path
-             sodipodi:nodetypes="ccccc"
-             inkscape:connector-curvature="0"
-             id="path13171-3-1"
-             d="m -595.36775,712.41244 66.41752,2.52538 -0.63135,1.01016 -65.40738,-2.14658 z"
-             style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter12874-0-8)" />
-        </g>
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#ffffff;fill-opacity:0.72847685;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter12848-3-1)"
+           d="m -641.20342,712.41244 22.72843,-62.12438 0.88389,1.89404 -22.60217,61.87184 z"
+           id="path13169-3-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter12874-0-8)"
+           d="m -595.36775,712.41244 66.41752,2.52538 -0.63135,1.01016 -65.40738,-2.14658 z"
+           id="path13171-3-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
       </g>
       <text
          sodipodi:linespacing="125%"
          id="text13173-1-1"
-         y="769.77051"
-         x="-586.1972"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         y="-686.34698"
+         x="1598.7036"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:Destroy;-inkscape-font-specification:Destroy"
-           y="769.77051"
-           x="-586.1972"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:Destroy;-inkscape-font-specification:Destroy;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+           y="-686.34698"
+           x="1598.7036"
            id="tspan13175-0-0"
            sodipodi:role="line">3</tspan></text>
     </g>
-    <path
-       sodipodi:type="star"
-       style="opacity:1;fill:url(#linearGradient9927-0-8);fill-opacity:1;stroke:#000000;stroke-width:3.39188194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31125829"
-       id="path12733-4-7-8-4-6"
-       sodipodi:sides="5"
-       sodipodi:cx="1856.3646"
-       sodipodi:cy="-704.04822"
-       sodipodi:r1="99.073463"
-       sodipodi:r2="41.016418"
-       sodipodi:arg1="-1.5707963"
-       sodipodi:arg2="-0.9424778"
-       inkscape:flatsided="false"
-       inkscape:rounded="-3.46945e-18"
-       inkscape:randomized="0"
-       d="m 1856.3646,-803.12168 24.1089,65.89048 70.1156,2.5676 -55.2155,43.29015 19.2249,67.47735 -58.2339,-39.1357 -58.2339,39.1357 19.225,-67.47735 -55.2155,-43.29015 70.1156,-2.5676 z"
-       inkscape:transform-center-y="-9.4606739"
-       inkscape:export-filename="/home/slack/Documents/Game Design/Sprite Work/star3_down.png"
+    <g
+       id="g5701"
+       inkscape:export-filename="/home/slack/workspace/ARaceInSpace_assets/Skin Composer/assets/star3_down.png"
        inkscape:export-xdpi="46.060001"
-       inkscape:export-ydpi="46.060001" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text13173-1-1-4"
-       y="-679.98022"
-       x="1829.3075"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"
-       inkscape:export-filename="/home/slack/Documents/Game Design/Sprite Work/star3_down.png"
-       inkscape:export-xdpi="46.060001"
-       inkscape:export-ydpi="46.060001"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:Destroy;-inkscape-font-specification:Destroy"
-         y="-679.98022"
+       inkscape:export-ydpi="46.060001">
+      <path
+         id="path13159-5-8-7"
+         d="m 1868.7424,-796.66488 -5.2735,14.41016 16.25,44.41015 10.6895,0.39063 -21.666,-59.21094 z m 73.0605,67.6836 -47.1836,36.99414 18.6074,65.30664 13.75,9.24218 -19.2246,-67.47851 55.2149,-43.28906 -21.1641,-0.77539 z m -86.1934,65.33593 -39.5,26.54493 -5.6015,19.6621 56.9277,-38.25976 -11.8262,-7.94727 z"
+         style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:3.39188194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31125829;filter:url(#filter12766-2-2-3)"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="45.950001"
+         inkscape:export-xdpi="45.950001"
+         inkscape:export-filename="/home/slack/workspace/ARaceInSpace_assets/Skin Composer/assets/star3_down.png"
+         inkscape:transform-center-y="-9.4606739"
+         d="m 1856.3646,-803.12168 24.1089,65.89048 70.1156,2.5676 -55.2155,43.29015 19.2249,67.47735 -58.2339,-39.1357 -58.2339,39.1357 19.225,-67.47735 -55.2155,-43.29015 70.1156,-2.5676 z"
+         inkscape:randomized="0"
+         inkscape:rounded="-3.46945e-18"
+         inkscape:flatsided="false"
+         sodipodi:arg2="-0.9424778"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="41.016418"
+         sodipodi:r1="99.073463"
+         sodipodi:cy="-704.04822"
+         sodipodi:cx="1856.3646"
+         sodipodi:sides="5"
+         id="path12733-4-7-8-4-6"
+         style="opacity:1;fill:url(#linearGradient9927-0-8);fill-opacity:1;stroke:#000000;stroke-width:3.39188194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31125829"
+         sodipodi:type="star" />
+      <text
+         inkscape:export-ydpi="45.950001"
+         inkscape:export-xdpi="45.950001"
+         inkscape:export-filename="/home/slack/workspace/ARaceInSpace_assets/Skin Composer/assets/star3_down.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="1829.3075"
-         id="tspan13175-0-0-6"
-         sodipodi:role="line">3</tspan></text>
+         y="-679.98022"
+         id="text13173-1-1-4"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan13175-0-0-6"
+           x="1829.3075"
+           y="-679.98022"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:Destroy;-inkscape-font-specification:Destroy;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1">3</tspan></text>
+    </g>
+    <g
+       id="g5739"
+       inkscape:export-filename="/home/slack/workspace/ARaceInSpace_assets/Skin Composer/assets/star2_down.png"
+       inkscape:export-xdpi="46.060001"
+       inkscape:export-ydpi="46.060001">
+      <path
+         inkscape:export-ydpi="46.060001"
+         inkscape:export-xdpi="46.060001"
+         inkscape:export-filename="/home/slack/Documents/Game Design/Sprite Work/star2_down.png"
+         inkscape:transform-center-y="-9.4606739"
+         d="m 1863.5074,-588.12168 24.1089,65.89048 70.1156,2.5676 -55.2155,43.29015 19.225,67.47735 -58.234,-39.1357 -58.2339,39.1357 19.225,-67.47735 -55.2155,-43.29015 70.1156,-2.5676 z"
+         inkscape:randomized="0"
+         inkscape:rounded="-3.46945e-18"
+         inkscape:flatsided="false"
+         sodipodi:arg2="-0.9424778"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:r2="41.016418"
+         sodipodi:r1="99.073463"
+         sodipodi:cy="-489.04822"
+         sodipodi:cx="1863.5074"
+         sodipodi:sides="5"
+         id="path12733-4-7-8-4"
+         style="opacity:1;fill:url(#linearGradient9927-0);fill-opacity:1;stroke:#000000;stroke-width:3.39188194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31125829"
+         sodipodi:type="star" />
+      <text
+         inkscape:export-ydpi="46.060001"
+         inkscape:export-xdpi="46.060001"
+         inkscape:export-filename="/home/slack/Documents/Game Design/Sprite Work/star2_down.png"
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="1833.2246"
+         y="-466.52878"
+         id="text13149-1-5-6"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan13151-8-4-9"
+           x="1833.2246"
+           y="-466.52878"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:Destroy;-inkscape-font-specification:Destroy;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1">2</tspan></text>
+      <path
+         id="path13135-5-4-5"
+         d="m 1876.5964,-581.51671 -5.2734,14.41016 16.25,44.41015 10.6895,0.39063 -21.6661,-59.21094 z m 73.0606,67.6836 -47.1836,36.99414 18.6074,65.30664 13.75,9.24218 -19.2246,-67.47851 55.2148,-43.28906 -21.164,-0.77539 z m -86.1934,65.33593 -39.5,26.54493 -5.6015,19.6621 56.9277,-38.25976 -11.8262,-7.94727 z"
+         style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:3.39188194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31125829;filter:url(#filter12766-0-3-5)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g5796">
+      <g
+         id="g5802"
+         inkscape:export-filename="/home/slack/workspace/ARaceInSpace_assets/Skin Composer/assets/star1_down.png"
+         inkscape:export-xdpi="46.060001"
+         inkscape:export-ydpi="46.060001">
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:url(#linearGradient9927);fill-opacity:1;stroke:#000000;stroke-width:3.39188194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31125829"
+           id="path12733-4-7-8"
+           sodipodi:sides="5"
+           sodipodi:cx="1858.5428"
+           sodipodi:cy="-272.34299"
+           sodipodi:r1="99.073463"
+           sodipodi:r2="41.016418"
+           sodipodi:arg1="-1.5707963"
+           sodipodi:arg2="-0.9424778"
+           inkscape:flatsided="false"
+           inkscape:rounded="-3.46945e-18"
+           inkscape:randomized="0"
+           d="m 1858.5428,-371.41645 24.1089,65.89048 70.1156,2.5676 -55.2155,43.29015 19.225,67.47735 -58.234,-39.1357 -58.2339,39.1357 19.225,-67.47735 -55.2155,-43.29015 70.1156,-2.5676 z"
+           inkscape:transform-center-y="-9.4606739"
+           inkscape:export-filename="/home/slack/Documents/Game Design/Sprite Work/star1_down.png"
+           inkscape:export-xdpi="46.060001"
+           inkscape:export-ydpi="46.060001" />
+        <text
+           sodipodi:linespacing="125%"
+           id="text12723-2-5-6"
+           y="-246.7717"
+           x="1835.1705"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"
+           inkscape:export-filename="/home/slack/Documents/Game Design/Sprite Work/star1_down.png"
+           inkscape:export-xdpi="46.060001"
+           inkscape:export-ydpi="46.060001"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:Destroy;-inkscape-font-specification:Destroy;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+             y="-246.7717"
+             x="1835.1705"
+             id="tspan12725-3-9-4"
+             sodipodi:role="line">1</tspan></text>
+        <path
+           id="path11595-5-9-4-9"
+           d="m 1870.2064,-364.79858 -5.2734,14.41016 16.25,44.41015 10.6895,0.39063 -21.6661,-59.21094 z m 73.0606,67.6836 -47.1836,36.99414 18.6074,65.30664 13.75,9.24218 -19.2246,-67.47851 55.2148,-43.28906 -21.164,-0.77539 z m -86.1934,65.33593 -39.5,26.54493 -5.6015,19.6621 56.9277,-38.25976 -11.8262,-7.94727 z"
+           style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:3.39188194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.31125829;filter:url(#filter12766-7-6-6)"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
   </g>
 </svg>
