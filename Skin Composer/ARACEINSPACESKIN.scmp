@@ -1559,6 +1559,19 @@ atlasData: {
 			tintName: null
 			name: level3intro
 		}
+		{
+			file: "/home/slack/workspace/ARaceInSpace_assets/Skin Composer/assets/rect-white.png"
+			bgColor: {
+				r: 0
+				g: 0
+				b: 0
+				a: 1
+			}
+			visible: true
+			tint: null
+			tintName: null
+			name: rect-white
+		}
 	]
 }
 jsonData: {
@@ -7235,7 +7248,7 @@ jsonData: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
 						name: cursor
 						optional: true
-						value: default-rect
+						value: rect-white
 					}
 					selection: {
 						class: com.ray3k.skincomposer.data.StyleProperty
