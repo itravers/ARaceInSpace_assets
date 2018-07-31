@@ -1064,16 +1064,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1221"
-     inkscape:window-height="1000"
+     inkscape:window-width="474"
+     inkscape:window-height="358"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="1.0531183"
      inkscape:cx="-194.00504"
      inkscape:cy="396.29607"
-     inkscape:window-x="59"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:window-x="454"
+     inkscape:window-y="190"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1106,7 +1106,10 @@
      width="800" />
   <g
      id="g6080"
-     transform="translate(-79.763122,12.344293)">
+     transform="translate(-79.763122,12.344293)"
+     inkscape:export-filename="/home/slack/workspace/ARaceInSpace_assets/Skin Composer/assets/boost_up.png"
+     inkscape:export-xdpi="118.49"
+     inkscape:export-ydpi="118.49">
     <g
        inkscape:export-ydpi="119.95077"
        inkscape:export-xdpi="119.95077"
@@ -1353,7 +1356,10 @@
   </g>
   <g
      id="g6042"
-     transform="translate(6.6469268,-0.94956098)">
+     transform="translate(6.6469268,-0.94956098)"
+     inkscape:export-filename="/home/slack/workspace/ARaceInSpace_assets/Skin Composer/assets/boost_down.png"
+     inkscape:export-xdpi="118.49"
+     inkscape:export-ydpi="118.49">
     <g
        inkscape:export-ydpi="119.95077"
        inkscape:export-xdpi="119.95077"
