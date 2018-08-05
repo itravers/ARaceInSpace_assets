@@ -2269,11 +2269,11 @@ GhostIndicator/indicator-green
   orig: 168, 84
   offset: 0, 0
   index: -1
-GhostIndicator/indicator-green-2
+GhostIndicator/indicator-green-new
   rotate: false
-  xy: 357, 434
-  size: 52, 220
-  orig: 52, 220
+  xy: 149, 165
+  size: 52, 219
+  orig: 52, 219
   offset: 0, 0
   index: -1
 GhostIndicator/indicator-red
@@ -2286,34 +2286,34 @@ GhostIndicator/indicator-red
 GhostIndicator/indicator-red-new
   rotate: false
   xy: 2, 113
-  size: 146, 271
-  orig: 146, 271
+  size: 145, 271
+  orig: 145, 271
   offset: 0, 0
   index: -1
 GhostIndicator/indicator-white
   rotate: false
-  xy: 204, 358
+  xy: 203, 358
   size: 168, 74
   orig: 168, 74
   offset: 0, 0
   index: -1
 GhostIndicator/indicator-white-new
   rotate: false
-  xy: 150, 164
+  xy: 357, 434
   size: 52, 220
   orig: 52, 220
   offset: 0, 0
   index: -1
 GhostIndicator/indicator-yellow
   rotate: false
-  xy: 204, 293
+  xy: 203, 293
   size: 168, 63
   orig: 168, 63
   offset: 0, 0
   index: -1
 GhostIndicator/indicator-yellow-new
   rotate: false
-  xy: 204, 122
+  xy: 203, 122
   size: 52, 169
   orig: 52, 169
   offset: 0, 0
