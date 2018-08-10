@@ -1490,7 +1490,7 @@ atlasData: {
 			name: window_pressed
 		}
 		{
-			file: "/home/slack/workspace/ARaceInSpace_assets/Skin Composer/assets/testIntro.png"
+			file: "/home/slack/workspace/ARaceInSpace_assets/Skin Composer/assets/blank.png"
 			bgColor: {
 				r: 1
 				g: 1
